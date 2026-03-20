@@ -57,6 +57,7 @@ python main.py
 
 
 ## Example usage
+```
 =========================
       TASK MANAGER
 =========================
@@ -70,3 +71,4 @@ Choose an option: 2
 Enter task title: Study Python OOP
 
 Task added: [1] - Study Python OOP - incomplete
+```
