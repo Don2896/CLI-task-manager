@@ -21,20 +21,21 @@ The application simulates a simple backend system, where tasks are managed in me
 
 ## Project Structure
 
-CLI_taskmanagerapp/
+```
+CLI_taskmanager/
 │
-
 ├── app/
 │   ├── __init__.py
 │   ├── task.py
 │   ├── task_manager.py
 │   ├── storage.py
-│   ├── cli.py
 │   
+│
 ├── main.py
 ├── requirements.txt
 └── README.md
 └── tasks.json
+```
 
 
 
